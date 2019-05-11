@@ -1,2 +1,3 @@
 filetobeignored.txt
 logs/
+*.orig
