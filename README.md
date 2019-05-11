@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 This is a simple web project. Deployment can be on any web server or even on local file system.
 
-## How to Contribue
+## How to Contribute
 
 Please fork this repository and then issue pull Requests for review.
 
