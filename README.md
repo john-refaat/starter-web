@@ -23,5 +23,5 @@ Please fork this repository and then issue pull Requests for review.
 2014 Git.Training. All rights reserved.
 
 
-Commited line
+Adding New feature
 
