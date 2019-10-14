@@ -20,10 +20,5 @@ This is a simple web project. Deployment can be on any web server or even on loc
 Please fork this repository and then issue pull Requests for review.
 
 ### Copyright
-2014 Git.Training. All rights reserved.
-
-
-Adding New feature
-
-After Rebase
+2014 Git.Training.
 
