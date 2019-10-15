@@ -13,6 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-
-Send me money!
+    Git
 
